@@ -1,9 +1,5 @@
 # 👋 Hey there, I'm Ozzy Simpson!
 
-![Profile Banner](https://www.ozzysimpson.com/static/ozzy.jpg)
-
----
-
 ## 👀 About Me
 
 I'm a **computer science student at The George Washington University**, currently pursuing my **B.S. in Computer Science**, with plans to stay for a **fifth year** to complete my **M.S. in Computer Science** with a focus in **Computer Security & Information Assurance**.  
