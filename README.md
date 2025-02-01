@@ -1,16 +1,46 @@
-## Hi there 👋
+# 👋 Hey there, I'm Ozzy Simpson!
 
-<!--
-**ozzy-simpson/ozzy-simpson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile Banner](https://www.ozzysimpson.com/static/ozzy.jpg)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👀 About Me
+
+I'm a **computer science student at The George Washington University**, currently pursuing my **B.S. in Computer Science**, with plans to stay for a **fifth year** to complete my **M.S. in Computer Science** with a focus in **Computer Security & Information Assurance**.  
+
+💡 My interests include **cybersecurity, software engineering, and AI/ML**.  
+🏛️ I've interned at **Capital One** as a software engineer and currently am a **UTA** at GWU.  
+🌍 I started coding as a kid, launching a **web design business** at age 10.  
+🥢 When I’m not coding, you’ll find me **🎿 skiing, 🌍 advocating for climate action, or hunting for the best 🍣 vegan sushi.**  
+
+---
+
+## 🚀 Projects
+
+### 🌭 [Eatable](https://gw-neural-networks-eatable.github.io)  
+🔹 A neural network that **predicts restaurant food prices from images** 📸💰  
+
+### 🏛️ [University System](https://github.com/ozzy-simpson/University-System)  
+🔹 A **Flask + MySQL** system for course registration & advising 🎓📚  
+
+### 💬 [GWack Slack Simulator](https://github.com/ozzy-simpson/GWack-Slack-Simulator)  
+🔹 A **Slack-like chat room** built with **Java Swing** 💻🗨️  
+
+### 🌱 [GW Fossil Free Classes](https://github.com/ozzy-simpson/GW-Fossil-Free-Classes)  
+🔹 A **Chrome extension** that marks climate-friendly professors 🌍🔥  
+
+---
+
+## 🌐 Connect with Me
+
+- **🌎 Website:** [ozzysimpson.com](https://ozzysimpson.com)  
+- **🔗 LinkedIn:** [linkedin.com/in/ozzy-simpson](https://www.linkedin.com/in/ozzy-simpson)  
+- **📜 Resume:** [View here](https://docs.google.com/document/d/1WXf4FbkafZSnK--Mv55lY--e2NkjNPcl/preview)
+
+---
+
+## 🎭 Fun Facts  
+
+🦠 I was in a **Clorox commercial** (before I knew how big germs were...)  
+👂 My **ears** were once a **model for Apple EarPods** (true story!)  
+🎮 I once had the **world's highest score** on Temple Run 2
