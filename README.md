@@ -13,7 +13,7 @@ I'm a **computer science student at The George Washington University**, currentl
 
 ## 🚀 Projects
 
-### 🌭 [Eatable](https://gw-neural-networks-eatable.github.io)  
+### 🌭 [Eatable](https://gw-neural-networks-eatable.github.io/Neural-Networks-Final-Project/)  
 🔹 A neural network that **predicts restaurant food prices from images** 📸💰  
 
 ### 🏛️ [University System](https://github.com/ozzy-simpson/University-System)  
