@@ -2,28 +2,28 @@
 
 ## 👀 About Me
 
-I'm a **computer science student at The George Washington University**, currently pursuing my **B.S. in Computer Science**, with plans to stay for a **fifth year** to complete my **M.S. in Computer Science** with a focus in **Computer Security & Information Assurance**.  
+I'm a **computer science student at The George Washington University**, currently pursuing my **B.S. in Computer Science**, with plans to stay for a **fifth year** to complete my **M.S. in Computer Science** with a focus in **Computer Security & Information Assurance**.
 
-💡 My interests include **cybersecurity, software engineering, and AI/ML**.  
+💡 My interests include **cybersecurity, software engineering, and AI/ML**.
 🏛️ I've interned at **Capital One** as a software engineer and currently am a **UTA** at GWU.  
 🌍 I started coding as a kid, launching a **web design business** at age 10.  
 🥢 When I’m not coding, you’ll find me **🎿 skiing, 🌍 advocating for climate action, or hunting for the best 🍣 vegan sushi.**  
 
 ---
 
-## 🚀 Projects
+## Projects
 
 ### 🌭 [Eatable](https://gw-neural-networks-eatable.github.io/Neural-Networks-Final-Project/)  
-🔹 A neural network that **predicts restaurant food prices from images** 📸💰  
+🔹 A neural network that **predicts restaurant food prices from images**
 
 ### 🏛️ [University System](https://github.com/ozzy-simpson/University-System)  
-🔹 A **Flask + MySQL** system for course registration & advising 🎓📚  
+🔹 A **Flask + MySQL** system for course registration & advising
 
 ### 💬 [GWack Slack Simulator](https://github.com/ozzy-simpson/GWack-Slack-Simulator)  
-🔹 A **Slack-like chat room** built with **Java Swing** 💻🗨️  
+🔹 A **Slack-like chat room** built with **Java Swing**
 
-### 🌱 [GW Fossil Free Classes](https://github.com/ozzy-simpson/GW-Fossil-Free-Classes)  
-🔹 A **Chrome extension** that marks climate-friendly professors 🌍🔥  
+### 🔥 [GW Fossil Free Classes](https://github.com/ozzy-simpson/GW-Fossil-Free-Classes)  
+🔹 A **Chrome extension** that marks climate-friendly professors 
 
 ---
 
@@ -38,5 +38,5 @@ I'm a **computer science student at The George Washington University**, currentl
 ## 🎭 Fun Facts  
 
 🦠 I was in a **Clorox commercial** (before I knew how big germs were...)  
-👂 My **ears** were once a **model for Apple EarPods** (true story!)  
+👂 My **ears** were once a **model for Apple EarPods**
 🎮 I once had the **world's highest score** on Temple Run 2
