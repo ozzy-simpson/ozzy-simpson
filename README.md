@@ -7,7 +7,7 @@ I'm a **computer science student at The George Washington University**, currentl
 💡 My interests include **cybersecurity, software engineering, and AI/ML**.
 🏛️ I've interned at **Capital One** as a software engineer and currently am a **UTA** at GWU.  
 🌍 I started coding as a kid, launching a **web design business** at age 10.  
-🥢 When I’m not coding, you’ll find me **🎿 skiing, 🌍 advocating for climate action, or hunting for the best 🍣 vegan sushi.**  
+🥢 When I’m not coding, you’ll find me **🎿 skiing, 🏃‍♂️ running, 🧗 rock climbing, or hunting for the best 🍣 vegan sushi.**  
 
 ---
 
@@ -21,9 +21,6 @@ I'm a **computer science student at The George Washington University**, currentl
 
 ### 💬 [GWack Slack Simulator](https://github.com/ozzy-simpson/GWack-Slack-Simulator)  
 🔹 A **Slack-like chat room** built with **Java Swing**
-
-### 🔥 [GW Fossil Free Classes](https://github.com/ozzy-simpson/GW-Fossil-Free-Classes)  
-🔹 A **Chrome extension** that marks climate-friendly professors 
 
 ---
 
