@@ -2,10 +2,10 @@
 
 ## 👀 About Me
 
-I'm a **computer science student at The George Washington University**, currently pursuing my **B.S. in Computer Science**, with plans to stay for a **fifth year** to complete my **M.S. in Computer Science** with a focus in **Computer Security & Information Assurance**.
+I recently graduated **summa cum laude from The George Washington University in Washington, D.C., with a B.S. in Computer Science**. This summer I'm working as a research assistant in the [GW Usable Security and Privacy Lab](https://gwusec.seas.gwu.edu/), where I'm working on multiple projects, including their Privacy Label Observatory and survey technology. As a **CyberCorps: Scholarship for Service recipient**, I'll be continuing my education at GW for a fifth year during which I'll be **pursuing an M.S. in Computer Science with a focus in computer security and information assurance**.
 
 💡 My interests include **cybersecurity, software engineering, and AI/ML**.
-🏛️ I've interned at **Capital One** as a software engineer and currently am a **UTA** at GWU.  
+🏛️ I've interned at **Capital One** as a software engineer and have been an **LA/UTA** at GWU for three years.  
 🌍 I started coding as a kid, launching a **web design business** at age 10.  
 🥢 When I’m not coding, you’ll find me **🎿 skiing, 🏃‍♂️ running, 🧗 rock climbing, or hunting for the best 🍣 vegan sushi.**  
 
