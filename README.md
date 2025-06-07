@@ -16,6 +16,9 @@ I'm a **computer science student at The George Washington University**, currentl
 ### 🌭 [Eatable](https://gw-neural-networks-eatable.github.io/Neural-Networks-Final-Project/)  
 🔹 A neural network that **predicts restaurant food prices from images**
 
+### 🚇 [WMATA Pass Analysis](https://github.com/ozzy-simpson/WMATA-Pass-Analysis)
+🔹 A **SvelteKit** tool to calculate if a WMATA pass was worth it based on actual SmarTrip card usage.
+
 ### 🏛️ [University System](https://github.com/ozzy-simpson/University-System)  
 🔹 A **Flask + MySQL** system for course registration & advising
 
