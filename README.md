@@ -22,8 +22,8 @@ I recently graduated **summa cum laude from The George Washington University in 
 ### 🏛️ [University System](https://github.com/ozzy-simpson/University-System)  
 🔹 A **Flask + MySQL** system for course registration & advising
 
-### 🧾 [Toast Receipt Splitter](https://github.com/ozzy-simpson/WMATA-Pass-Analysis)
-🔹 A **SvelteKit** app to split a Toast receipt just from the link, item-by-item, allowing you to easily share the cost of a meal with friends.
+### 🧾 [Receipt Splitter](https://github.com/ozzy-simpson/Receipt-Splitter)
+🔹 A **SvelteKit** app to split a receipt just from the URL, item-by-item, allowing you to easily share the cost of a meal with friends.
 
 ### 💬 [GWack Slack Simulator](https://github.com/ozzy-simpson/GWack-Slack-Simulator)  
 🔹 A **Slack-like chat room** built with **Java Swing**
