@@ -2,12 +2,14 @@
 
 ## About Me
 
-I recently graduated **_summa cum laude_ from The George Washington University in Washington, D.C., with a B.S. in Computer Science**. As a **CyberCorps: Scholarship for Service recipient**, I'm currently **pursuing an M.S. in Computer Science with a focus in computer security and information assurance** at GW for a fifth year, and expect to graduate in May 2026. This past summer I worked as a research assistant in the [GW Usable Security and Privacy Lab](https://gwusec.seas.gwu.edu/), where I worked on their Privacy Label Observatory and custom-built survey technology.
+I recently graduated from The George Washington University with both a B.S. (May 2025) and an M.S. (May 2026) in Computer Science, the latter with a focus in computer security and information assurance, as a CyberCorps: Scholarship for Service recipient.
 
-- My interests include **cybersecurity, software engineering, and AI/ML**.
-- I've interned at **Capital One** as a software engineer and was an **LA/UTA** at GWU for three years before becoming a **GTA** during my master's program.
-- I started coding as a kid, launching a **web design business** at age 10.
-- When I’m not coding, you’ll find me **skiing, running, rock climbing, or hunting for the best vegan sushi.**  
+This summer, I'm working as an Innovation Technology Intern at the United States Postal Service, contributing to Informed Delivery. Last year, I was a Graduate Teaching Assistant for several GW CS courses, and spent the summer of 2025 as a research assistant in the GW Usable Security and Privacy Lab, where I worked on the Privacy Label Observatory and a secure survey platform used in their studies.
+
+My passion for technology began in kindergarten, when I taught myself to use iWeb to design websites. By age ten, I'd moved from design to development and launched a small web design business. I've been building things ever since.
+
+When I'm not coding (yes, often for fun), I enjoy skiing, running, rock climbing, and discovering the best vegan sushi wherever I go (Shizen in SF; Planta in DC, LA, and more).
+
 
 ---
 
@@ -34,7 +36,7 @@ I recently graduated **_summa cum laude_ from The George Washington University i
 
 - **Website:** [ozzysimpson.com](https://ozzysimpson.com)  
 - **LinkedIn:** [linkedin.com/in/ozzy-simpson](https://www.linkedin.com/in/ozzy-simpson)  
-- **Resume:** [View here](https://docs.google.com/document/d/1WXf4FbkafZSnK--Mv55lY--e2NkjNPcl/preview)
+- **Resume:** [View here](https://ozzysimpson.com/static/resume.pdf)
 
 ---
 
