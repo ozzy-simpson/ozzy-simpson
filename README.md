@@ -4,7 +4,7 @@
 
 I recently graduated from The George Washington University with both a B.S. (May 2025) and an M.S. (May 2026) in Computer Science, the latter with a focus in computer security and information assurance, as a CyberCorps: Scholarship for Service recipient.
 
-This summer, I'm working as an Innovation Technology Intern at the United States Postal Service, contributing to Informed Delivery. Last year, I was a Graduate Teaching Assistant for several GW CS courses, and spent the summer of 2025 as a research assistant in the GW Usable Security and Privacy Lab, where I worked on the Privacy Label Observatory and a secure survey platform used in their studies.
+This past summer, I worked as an Innovation Technology Intern at the United States Postal Service, contributing primarily to Informed Delivery. Last year, I was a Graduate Teaching Assistant for several GW CS courses.
 
 My passion for technology began in kindergarten, when I taught myself to use iWeb to design websites. By age ten, I'd moved from design to development and launched a small web design business. I've been building things ever since.
 
